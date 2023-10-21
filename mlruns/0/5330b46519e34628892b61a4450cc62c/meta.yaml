@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saikr/OneDrive/Desktop/MLOps/MLFlow/mlruns/0/5330b46519e34628892b61a4450cc62c/artifacts
+end_time: 1697827237535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5330b46519e34628892b61a4450cc62c
+run_name: judicious-dove-591
+run_uuid: 5330b46519e34628892b61a4450cc62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697827235819
+status: 3
+tags: []
+user_id: saikr

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saikr/OneDrive/Desktop/MLOps/MLFlow/mlruns/0/750dcc6ecd3347509eebbc4474d57227/artifacts
+end_time: 1697825392308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 750dcc6ecd3347509eebbc4474d57227
+run_name: clean-sponge-319
+run_uuid: 750dcc6ecd3347509eebbc4474d57227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697825390301
+status: 3
+tags: []
+user_id: saikr

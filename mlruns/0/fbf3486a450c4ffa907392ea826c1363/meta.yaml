@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saikr/OneDrive/Desktop/MLOps/MLFlow/mlruns/0/fbf3486a450c4ffa907392ea826c1363/artifacts
+end_time: 1697827060396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbf3486a450c4ffa907392ea826c1363
+run_name: abundant-panda-182
+run_uuid: fbf3486a450c4ffa907392ea826c1363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697827058701
+status: 3
+tags: []
+user_id: saikr
